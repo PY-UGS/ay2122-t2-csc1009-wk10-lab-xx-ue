@@ -1,0 +1,5 @@
+print("Enter value of x")
+x=float(input())
+print("Enter value of y")
+y=float(input())
+print("Average of x and y is",(x+y)/2)
